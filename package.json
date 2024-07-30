@@ -1,0 +1,157 @@
+
+  {
+    "name": "fullstack-ecommerce-website",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type":"module",
+    "scripts": {
+      
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Bivash",
+    "license": "ISC",
+    "description": "Product Data for my E-commerce Website"
+  },
+
+  {
+    "catagory-id": 1,
+    "id": 1,
+    "name": "Gifts",
+    "image": "image_cata_prod/image-1.jpg"
+  },
+
+  {
+    "catagory-id": 2,
+    "id": 2,
+    "name": "Teddy Bear Toys",
+    "image": "image_cata_prod/image-2.jpg"
+  },
+  {
+    "catagory-id": 3,
+    "id": 3,
+    "name": "Computer Accesories",
+    "image": "image_cata_prod/image-4.jpg"
+  },
+  {
+    "catagory-id": 4,
+    "id": 4,
+    "name": "Daily life Accesories",
+    "image": "image_cata_prod/image-6.jpg"
+  },
+  {
+    "catagory-id": 5,
+    "id": 5,
+    "name": "Mobiles & Accesories",
+    "image": "image_cata_prod/image-7.jpg"
+  },
+  {
+    "catagory-id": 6,
+    "id": 6,
+    "name": "Pet Care",
+    "image": "image_cata_prod/image-8.jpg"
+  },
+  {
+    "catagory-id": 7,
+    "id": 7,
+    "name": "woman Dresses",
+    "image": "image_cata_prod/image-9.jpg"
+  },
+  {
+    "catagory-id": 8,
+    "id": 8,
+    "name": "Note book, Pen, Pencil & Other Study metarials",
+    "image": "image_cata_prod/image-10.jpg"
+  },
+  {
+    "catagory-id": 9,
+    "id": 9,
+    "name": "Study Chair & Tables",
+    "image": "image_cata_prod/image-12.jpg"
+  },
+  {
+    "catagory-id": 10,
+    "id": 10,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  {
+    "catagory-id": 11,
+    "id": 11,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  {
+    "catagory-id": 12,
+    "id": 12,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  {
+    "catagory-id": 13,
+    "id": 13,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  {
+    "catagory-id": 14,
+    "id": 14,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  {
+    "catagory-id": 15,
+    "id": 15,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  {
+    "catagory-id": 16,
+    "id": 16,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  {
+    "catagory-id": 17,
+    "id": 17,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  {
+    "catagory-id": 18,
+    "id": 18,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  {
+    "catagory-id": 19,
+    "id": 19,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  {
+    "catagory-id": 19,
+    "id": 19,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  {
+    "catagory-id": 20,
+    "id": 20,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  {
+    "catagory-id": 21,
+    "id": 21,
+    "name": "Gaming Set Up",
+    "image": "image_cata_prod/image-13.jpg"
+  },
+  
+  {
+      "catagory-id": 22,
+      "id": 22,
+      "name": "Gaming Set Up",
+      "image": "image_cata_prod/image-13.jpg"
+  }
+  
