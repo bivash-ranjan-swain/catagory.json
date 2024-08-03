@@ -1,18 +1,4 @@
 
-  {
-    "name": "fullstack-ecommerce-website",
-    "version": "1.0.0",
-    "main": "index.js",
-    "type":"module",
-    "scripts": {
-      
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "Bivash",
-    "license": "ISC",
-    "description": "Product Data for my E-commerce Website"
-  },
 
   {
     "catagory-id": 1,
