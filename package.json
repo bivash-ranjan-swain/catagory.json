@@ -1,143 +1,145 @@
-
-
+[
   {
-    "catagory-id": 1,
     "id": 1,
-    "name": "Gifts",
-    "image": "image_cata_prod/image-1.jpg"
+    "category": "Electronics",
+    "subcategories": [
+      { "id": 101, "name": "Phones & Accessories" },
+      { "id": 102, "name": "Laptops & Computers" },
+      { "id": 103, "name": "Headphones" },
+      { "id": 104, "name": "Cameras & Photography" },
+      { "id": 105, "name": "Home Audio & Theater" }
+    ]
   },
-
   {
-    "catagory-id": 2,
     "id": 2,
-    "name": "Teddy Bear Toys",
-    "image": "image_cata_prod/image-2.jpg"
+    "category": "Books",
+    "subcategories": [
+      { "id": 201, "name": "Literature & Fiction" },
+      { "id": 202, "name": "Children’s Books" },
+      { "id": 203, "name": "Textbooks" },
+      { "id": 204, "name": "Educational Books" },
+      { "id": 205, "name": "Comics & Graphic Novels" }
+    ]
   },
   {
-    "catagory-id": 3,
     "id": 3,
-    "name": "Computer Accesories",
-    "image": "image_cata_prod/image-4.jpg"
+    "category": "Fashion",
+    "subcategories": [
+      { "id": 301, "name": "Men’s Clothing" },
+      { "id": 302, "name": "Women’s Clothing" },
+      { "id": 303, "name": "Shoes" },
+      { "id": 304, "name": "Watches" },
+      { "id": 305, "name": "Jewelry" }
+    ]
   },
   {
-    "catagory-id": 4,
     "id": 4,
-    "name": "Daily life Accesories",
-    "image": "image_cata_prod/image-6.jpg"
+    "category": "Home & Kitchen",
+    "subcategories": [
+      { "id": 401, "name": "Furniture" },
+      { "id": 402, "name": "Home Decor" },
+      { "id": 403, "name": "Bedding" },
+      { "id": 404, "name": "Kitchen & Dining" },
+      { "id": 405, "name": "Storage & Organization" }
+    ]
   },
   {
-    "catagory-id": 5,
     "id": 5,
-    "name": "Mobiles & Accesories",
-    "image": "image_cata_prod/image-7.jpg"
+    "category": "Beauty & Personal Care",
+    "subcategories": [
+      { "id": 501, "name": "Skincare" },
+      { "id": 502, "name": "Haircare" },
+      { "id": 503, "name": "Makeup" },
+      { "id": 504, "name": "Fragrances" },
+      { "id": 505, "name": "Personal Care Appliances" }
+    ]
   },
   {
-    "catagory-id": 6,
     "id": 6,
-    "name": "Pet Care",
-    "image": "image_cata_prod/image-8.jpg"
+    "category": "Sports & Outdoors",
+    "subcategories": [
+      { "id": 601, "name": "Sports Equipment" },
+      { "id": 602, "name": "Fitness & Exercise" },
+      { "id": 603, "name": "Outdoor Gear" },
+      { "id": 604, "name": "Camping & Hiking" },
+      { "id": 605, "name": "Cycling" }
+    ]
   },
   {
-    "catagory-id": 7,
     "id": 7,
-    "name": "woman Dresses",
-    "image": "image_cata_prod/image-9.jpg"
+    "category": "Toys & Games",
+    "subcategories": [
+      { "id": 701, "name": "Action Figures" },
+      { "id": 702, "name": "Board Games" },
+      { "id": 703, "name": "Educational Toys" },
+      { "id": 704, "name": "Puzzles" },
+      { "id": 705, "name": "Dolls" }
+    ]
   },
   {
-    "catagory-id": 8,
     "id": 8,
-    "name": "Note book, Pen, Pencil & Other Study metarials",
-    "image": "image_cata_prod/image-10.jpg"
+    "category": "Automotive",
+    "subcategories": [
+      { "id": 801, "name": "Car Accessories" },
+      { "id": 802, "name": "Motorcycle Parts & Accessories" },
+      { "id": 803, "name": "Tires & Wheels" },
+      { "id": 804, "name": "Tools & Equipment" },
+      { "id": 805, "name": "Car Care" }
+    ]
   },
   {
-    "catagory-id": 9,
     "id": 9,
-    "name": "Study Chair & Tables",
-    "image": "image_cata_prod/image-12.jpg"
+    "category": "Grocery & Gourmet Food",
+    "subcategories": [
+      { "id": 901, "name": "Snacks" },
+      { "id": 902, "name": "Beverages" },
+      { "id": 903, "name": "Pantry Staples" },
+      { "id": 904, "name": "Organic Products" },
+      { "id": 905, "name": "Gourmet & Specialty Foods" }
+    ]
   },
   {
-    "catagory-id": 10,
     "id": 10,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
+    "category": "Health & Household",
+    "subcategories": [
+      { "id": 1001, "name": "Vitamins & Supplements" },
+      { "id": 1002, "name": "Medical Supplies" },
+      { "id": 1003, "name": "Household Supplies" },
+      { "id": 1004, "name": "Health Care Devices" },
+      { "id": 1005, "name": "Baby & Child Care" }
+    ]
   },
   {
-    "catagory-id": 11,
     "id": 11,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
+    "category": "Pet Supplies",
+    "subcategories": [
+      { "id": 1101, "name": "Dog Supplies" },
+      { "id": 1102, "name": "Cat Supplies" },
+      { "id": 1103, "name": "Fish & Aquatic Pets" },
+      { "id": 1104, "name": "Birds" },
+      { "id": 1105, "name": "Small Animals" }
+    ]
   },
   {
-    "catagory-id": 12,
     "id": 12,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
+    "category": "Movies, Music & Games",
+    "subcategories": [
+      { "id": 1201, "name": "DVDs & Blu-rays" },
+      { "id": 1202, "name": "Music CDs & Vinyl" },
+      { "id": 1203, "name": "Video Games" },
+      { "id": 1204, "name": "Musical Instruments" },
+      { "id": 1205, "name": "Collectible Figures" }
+    ]
   },
   {
-    "catagory-id": 13,
     "id": 13,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
-  },
-  {
-    "catagory-id": 14,
-    "id": 14,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
-  },
-  {
-    "catagory-id": 15,
-    "id": 15,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
-  },
-  {
-    "catagory-id": 16,
-    "id": 16,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
-  },
-  {
-    "catagory-id": 17,
-    "id": 17,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
-  },
-  {
-    "catagory-id": 18,
-    "id": 18,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
-  },
-  {
-    "catagory-id": 19,
-    "id": 19,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
-  },
-  {
-    "catagory-id": 19,
-    "id": 19,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
-  },
-  {
-    "catagory-id": 20,
-    "id": 20,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
-  },
-  {
-    "catagory-id": 21,
-    "id": 21,
-    "name": "Gaming Set Up",
-    "image": "image_cata_prod/image-13.jpg"
-  },
-  
-  {
-      "catagory-id": 22,
-      "id": 22,
-      "name": "Gaming Set Up",
-      "image": "image_cata_prod/image-13.jpg"
+    "category": "Office Products",
+    "subcategories": [
+      { "id": 1301, "name": "Office Supplies" },
+      { "id": 1302, "name": "School Supplies" },
+      { "id": 1303, "name": "Office Electronics" },
+      { "id": 1304, "name": "Paper Products" },
+      { "id": 1305, "name": "Ink & Toner" }
+    ]
   }
-  
+]
